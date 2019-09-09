@@ -1,2 +1,2 @@
 # Quaternion-Multiplication
-Just quaternion multiplication in preassigned order
+Just a quaternion multiplication in preassigned order
